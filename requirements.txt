@@ -1,0 +1,12 @@
+python-dotenv
+pydantic==2.10.1
+chainlit==2.2.1
+pymongo 
+bcrypt
+email_validator
+ollama
+chromadb
+pandas
+PyPDF2
+google.generativeai
+duckduckgo-search-api
